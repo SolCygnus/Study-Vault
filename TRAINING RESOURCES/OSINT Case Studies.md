@@ -1,4 +1,6 @@
 
+# Case Studies
+
 ==Montenegrin Gang using OSINT to Kill rivals:
 https://www.occrp.org/en/balkan-cocaine-wars/how-a-montenegrin-gang-used-open-source-intelligence-to-kill
 
@@ -6,8 +8,6 @@ https://www.occrp.org/en/balkan-cocaine-wars/how-a-montenegrin-gang-used-open-so
 ==**Vice / Bellingcat - Nuclear**
 https://youtu.be/A1Gy5nJ6GGE
 
-
-Kareem: Heatherington Group - FB Video of Israeli woman near bomb explosion. Identify Country and Date, use Firms to look for explosions/fires on that date, confirm triangulation of near location with cellmapper of cell towers in background video and application.
 
 ==Anonymous 4Chan Call Airstrike on Syrian Rebels:
 https://www.youtube.com/shorts/mCNO6bduVsM?app=desktop
