@@ -1,22 +1,24 @@
 
-==TRAINING==
-
-academy.tcm-sec.com
-
-**Kasescenarios.com**
-OSINT scenarios - paid app
-
-OSINT: https://youtu.be/qwA6MmbeGNo
-
 
 
 ==DIGITAL FORCE PROTECTION==
 
 privacytools.io
 
+
 I'll let myself in: Tactics of Physical Pen Testers:  https://youtu.be/rnmcRTnTNC8
 
 
+privacy4cars.com
+	vehicleprivacyreport.com
+
+
+Terms of Service Did not Read: 
+	tosdr.org
+
+
+Firefox Profiles
+	ffprofile.com
 
 ==PILLARS (ADV SEARCH | IMAGE | MAP/GEO)==
 
